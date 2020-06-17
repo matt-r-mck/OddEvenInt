@@ -20,6 +20,14 @@ namespace OddEvenInteger {
             }
             Console.WriteLine("Thanks for using the Odd/Even Integer Verification Machine! Have a Nice Day!");
 
+            /*
+            var total = 0;
+            for (var idx = 0; idx <= 25; idx++) {
+                total += idx; //total = toal + idx
+            }                                           for loop practice
+            Console.WriteLine($"The sum of all numbers between 1 and 24 is {total}");
+            */
+            }
         }
     }
 }
