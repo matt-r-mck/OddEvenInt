@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenInteger", "OddEvenInteger\OddEvenInteger.csproj", "{66DA9A33-CEE1-40FD-9467-06CD0E602FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66DA9A33-CEE1-40FD-9467-06CD0E602FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DA9A33-CEE1-40FD-9467-06CD0E602FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DA9A33-CEE1-40FD-9467-06CD0E602FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DA9A33-CEE1-40FD-9467-06CD0E602FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CE8EEC6-29EE-492B-8DAF-455714DB3EB2}
+	EndGlobalSection
+EndGlobal
